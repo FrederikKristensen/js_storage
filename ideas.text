@@ -1,0 +1,21 @@
+Ideas for storage website
+Server? or serverless? or node.js?
+
+Main functions:
+    -   See table of what is in storage 
+        -   Info
+            -   Name
+            -   Number
+            -   Last changed
+            -   Next incoming delivery of item
+        - Remove
+            - Removing a item from the system
+            - Removing a set amount of the item 
+    -   Deliveries
+        -   Info
+            -   Then is what deliveries coming
+                -   What item is coming in that delivery
+        -   Add new delivery
+    -   Profiles?
+        -   Worker (just info)
+        -   Admin (Adding changing, removing)
